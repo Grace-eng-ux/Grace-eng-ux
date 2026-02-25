@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on self growth project that reflect my skills, strengths and knowledge.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with diving deep in backend development <br>🌱 I’m currently learning on using Django for backend development.<br>💬 I'm currently sharpening my skills in React for frontend development.
+🔭 I’m currently working on self growth project that reflect my skills, strengths and knowledge.<br>🤝 I’m looking for help with diving deep in backend development <br>🌱 I’m currently learning on using Django for backend development.<br>💬 I'm currently sharpening my skills in React for frontend development.
 
 
 ## 🌐 Socials:
